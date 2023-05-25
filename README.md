@@ -1,6 +1,7 @@
 - 👋 Hi, I’m mark
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Web development 
+- 🌱 I’m currently learning Computer Science
 
 
 <!---
